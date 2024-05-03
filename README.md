@@ -1,4 +1,5 @@
 # Bakery-Sales-Forecasting
+In this project I've used Machine Learning to forecast sale earnings and food consumption, also few analysis were made here.
 ![Year sales](https://github.com/mnovgorodtsev/Bakery-Sales-Forecasting/assets/92621652/58b3937c-1151-4ed1-804f-444f91a26a38)
 
 ![Sales of product per day](https://github.com/mnovgorodtsev/Bakery-Sales-Forecasting/assets/92621652/c6223d78-165e-47fc-ba8e-975b8e7901e9)
